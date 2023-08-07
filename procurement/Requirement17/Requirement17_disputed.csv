@@ -1,0 +1,4 @@
+"orderNumber","orderDate","requiredDate","shippedDate","status","comments","customerNumber"
+10406,"04/15/2005 00:00:00","04/25/2005 00:00:00","04/21/2005 00:00:00","Disputed","Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this.",145
+10415,"05/09/2005 00:00:00","05/20/2005 00:00:00","05/12/2005 00:00:00","Disputed","Customer claims the scales of the models don't match what was discussed. I keep all the paperwork though to prove otherwise",471
+10417,"05/13/2005 00:00:00","05/19/2005 00:00:00","05/19/2005 00:00:00","Disputed","Customer doesn't like the colors and precision of the models.",141

@@ -1,0 +1,5 @@
+"orderNumber","orderDate","requiredDate","shippedDate","status","comments","customerNumber"
+10334,"11/19/2004 00:00:00","11/28/2004 00:00:00",,"On Hold","The outstaniding balance for this customer exceeds their credit limit. Order will be shipped when a payment is received.",144
+10401,"04/03/2005 00:00:00","04/14/2005 00:00:00",,"On Hold","Customer credit limit exceeded. Will ship when a payment is received.",328
+10407,"04/22/2005 00:00:00","05/04/2005 00:00:00",,"On Hold","Customer credit limit exceeded. Will ship when a payment is received.",450
+10414,"05/06/2005 00:00:00","05/13/2005 00:00:00",,"On Hold","Customer credit limit exceeded. Will ship when a payment is received.",362

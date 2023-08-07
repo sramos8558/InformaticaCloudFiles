@@ -1,0 +1,5 @@
+"orderNumber","orderDate","requiredDate","shippedDate","status","comments","customerNumber"
+10164,"10/21/2003 00:00:00","10/30/2003 00:00:00","10/23/2003 00:00:00","Resolved","This order was disputed, but resolved on 11/1/2003; Customer doesn't like the colors and precision of the models.",452
+10327,"11/10/2004 00:00:00","11/19/2004 00:00:00","11/13/2004 00:00:00","Resolved","Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed.",145
+10367,"01/12/2005 00:00:00","01/21/2005 00:00:00","01/16/2005 00:00:00","Resolved","This order was disputed and resolved on 2/1/2005. Customer claimed that container with shipment was damaged. FedEx's investigation proved this wrong.",205
+10386,"03/01/2005 00:00:00","03/09/2005 00:00:00","03/06/2005 00:00:00","Resolved","Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models.",141

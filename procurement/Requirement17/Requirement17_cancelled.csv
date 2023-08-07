@@ -1,0 +1,7 @@
+"orderNumber","orderDate","requiredDate","shippedDate","status","comments","customerNumber"
+10167,"10/23/2003 00:00:00","10/30/2003 00:00:00",,"Cancelled","Customer called to cancel. The warehouse was notified in time and the order didn't ship. They have a new VP of Sales and are shifting their sales model. Our VP of Sales should contact them.",448
+10179,"11/11/2003 00:00:00","11/17/2003 00:00:00","11/13/2003 00:00:00","Cancelled","Customer cancelled due to urgent budgeting issues. Must be cautious when dealing with them in the future. Since order shipped already we must discuss who would cover the shipping charges.",496
+10248,"05/07/2004 00:00:00","05/14/2004 00:00:00",,"Cancelled","Order was mistakenly placed. The warehouse noticed the lack of documentation.",131
+10253,"06/01/2004 00:00:00","06/09/2004 00:00:00","06/02/2004 00:00:00","Cancelled","Customer disputed the order and we agreed to cancel it. We must be more cautions with this customer going forward, since they are very hard to please. We must cover the shipping fees.",201
+10260,"06/16/2004 00:00:00","06/22/2004 00:00:00",,"Cancelled","Customer heard complaints from their customers and called to cancel this order. Will notify the Sales Manager.",357
+10262,"06/24/2004 00:00:00","07/01/2004 00:00:00",,"Cancelled","This customer found a better offer from one of our competitors. Will call back to renegotiate.",141
